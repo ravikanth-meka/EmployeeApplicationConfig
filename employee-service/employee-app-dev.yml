@@ -2,4 +2,4 @@ clientconfig:
   appname: employee-app
   
 emp:
-  head: Welcome to Employee App - Dev
+  head: Welcome to Employee App - Dev app running
