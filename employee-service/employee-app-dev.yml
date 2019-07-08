@@ -1,0 +1,5 @@
+clientconfig:
+  appname: employee-app
+  
+emp:
+  head: Welcome to Employee App - Dev
